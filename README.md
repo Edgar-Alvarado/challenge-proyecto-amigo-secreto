@@ -7,8 +7,7 @@ Con esta herramienta puedes añadir participantes, y luego sortear aleatoriament
 ---
 
 ## 📸 Vista previa
-
-<img width="1916" height="988" alt="Captura de pantalla 2025-07-31 133035" src="https://github.com/user-attachments/assets/797b05dc-0fa8-43fb-bd92-ce7d07d480ce" />
+<img width="1918" height="987" alt="Captura de pantalla 2025-08-08 155812" src="https://github.com/user-attachments/assets/da645267-163a-4237-b1bf-553b2ace56c1" />
 <img width="1916" height="985" alt="Captura de pantalla 2025-07-31 133116" src="https://github.com/user-attachments/assets/701c6cbe-aa92-4373-81a8-ed1115a0af41" />
 <img width="1919" height="993" alt="Captura de pantalla 2025-07-31 133139" src="https://github.com/user-attachments/assets/b6621fde-2089-402a-91fd-29060d662c5d" />
 <img width="1918" height="987" alt="Captura de pantalla 2025-07-31 133204" src="https://github.com/user-attachments/assets/044bb7e0-776a-4aae-b4f2-de698ac61bb9" />
