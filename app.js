@@ -54,3 +54,10 @@ function sortearAmigo(){
         resultado.innerHTML += `<li>${nombres[i]} → ${amigoSecreto[i]}</li>`;
     }
 }
+// Limpia la lista de amigos
+function reinicioJuego(){
+    document.getElementById('amigo').value = "";
+    nombres = [];
+    document.getElementById('listaAmigos').innerHTML = "";
+    document.getElementById('resultado').innerHTML = "";
+}
