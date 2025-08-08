@@ -9,11 +9,11 @@ Con esta herramienta puedes añadir participantes, y luego sortear aleatoriament
 ## 📸 Vista previa
 <img width="1918" height="987" alt="Captura de pantalla 2025-08-08 155812" src="https://github.com/user-attachments/assets/da645267-163a-4237-b1bf-553b2ace56c1" />
 <img width="1919" height="940" alt="Captura de pantalla 2025-08-08 160907" src="https://github.com/user-attachments/assets/440aaa56-3c92-45a9-b9cf-a3d6fc8da826" />
-<img width="1919" height="993" alt="Captura de pantalla 2025-07-31 133139" src="https://github.com/user-attachments/assets/b6621fde-2089-402a-91fd-29060d662c5d" />
-<img width="1918" height="987" alt="Captura de pantalla 2025-07-31 133204" src="https://github.com/user-attachments/assets/044bb7e0-776a-4aae-b4f2-de698ac61bb9" />
-<img width="1919" height="985" alt="Captura de pantalla 2025-07-31 133521" src="https://github.com/user-attachments/assets/44c59a68-3405-4e44-b912-f15e026c1fa5" />
-<img width="1918" height="990" alt="Captura de pantalla 2025-07-31 133606" src="https://github.com/user-attachments/assets/351487a6-3657-43d9-8fa7-c64a1526fff2" />
-
+<img width="1918" height="993" alt="Captura de pantalla 2025-08-08 161029" src="https://github.com/user-attachments/assets/d4cb6fe3-af63-460f-a6ca-23c2557a1856" />
+<img width="1919" height="984" alt="Captura de pantalla 2025-08-08 161053" src="https://github.com/user-attachments/assets/beb42a2e-3aa0-4fb7-b1b2-102093095031" />
+<img width="1919" height="941" alt="Captura de pantalla 2025-08-08 161228" src="https://github.com/user-attachments/assets/01ca4eef-675b-47c9-ae49-88e609edbc1f" />
+<img width="1919" height="943" alt="Captura de pantalla 2025-08-08 161350" src="https://github.com/user-attachments/assets/514ddbe8-d7d7-44c1-bc25-6b51e6809331" />
+<img width="1919" height="941" alt="Captura de pantalla 2025-08-08 161430" src="https://github.com/user-attachments/assets/ef2f1d38-d2fa-4291-b670-5a0e6cfc33a2" />
 
 ---
 
