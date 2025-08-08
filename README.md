@@ -46,6 +46,7 @@ Con esta herramienta puedes añadir participantes, y luego sortear aleatoriament
 - Si pulsas añadir o enter y no hay texto dentro de ella la condicion se cumple.
 - El sistema no permite hacer el sorteo si no hay al menos dos nombres.
 - El botón de sorteo muestra una alerta si no se cumple esta condición.
+- El botón de reinicio funciona y limpia la lista.
 
 ---
 
